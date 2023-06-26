@@ -13,6 +13,6 @@ title.
 
 ## App Demo
 You can check the app demo by clicking the link below
-<a href="https://ecom-filtering.netlify.app/"> Click to see demo </a>
+<a target="_blank" href="https://ecom-filtering.netlify.app/"> Click to see demo </a>
 
 
